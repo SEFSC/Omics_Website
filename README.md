@@ -1,10 +1,10 @@
 [![](https://img.shields.io/badge/Open%20In-RStudio%20Cloud-green)](https://rstudio.cloud/content/4771757) *Try without installing anything. Make sure to click the Make a Copy button or you will lose all your changes.*
  
-# Welcome to the NWFSC Conservation Biology- Molecular Genetics Landing Page
+# Welcome to the SEFSC Omics Landing Page
 
 This is a current work in progress, intended to link out repositories for active and finsihed projects among our group as well as resources for github, coding, and data analysis. Stay tuned for more updates!
 
-To view the front facing webpage, [click here](https://noaa-nwfsc.github.io/CB_Genetics_Landing_Page/)
+To view the front facing webpage, [click here](https://sefsc.github.io/Omics_Website)
 
 
 ## Customize
