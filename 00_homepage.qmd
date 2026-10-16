@@ -9,6 +9,8 @@ This page is built and maintained by the NOAA SEFSC Omics Group.
 
 ### !!!!! THIS WEBSITE IS UNDER CONSTRUCTION !!!
 
+Page was originally forked from NWFSC and updating to SEFSC information is not complete. 
+
 
 On this page you will find links to github repositories for current and past projects of our group. In addition, we have links to Github resources, open science resources, Sedna resources, etc.
 
