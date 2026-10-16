@@ -174,7 +174,7 @@
     "href": "00_homepage.html",
     "title": "SEFSC Landing Page",
     "section": "",
-    "text": "This page is built and maintained by the NOAA SEFSC Omics Group.\n\n!!!!! THIS WEBSITE IS UNDER CONSTRUCTION !!!\nOn this page you will find links to github repositories for current and past projects of our group. In addition, we have links to Github resources, open science resources, Sedna resources, etc.\nIf you have ideas on pages or resources to add, contact xxx.",
+    "text": "This page is built and maintained by the NOAA SEFSC Omics Group.\n\n!!!!! THIS WEBSITE IS UNDER CONSTRUCTION !!!\nPage was originally forked from NWFSC and updating to SEFSC information is not complete.\nOn this page you will find links to github repositories for current and past projects of our group. In addition, we have links to Github resources, open science resources, Sedna resources, etc.\nIf you have ideas on pages or resources to add, contact xxx.",
     "crumbs": [
       "Home"
     ]
