@@ -38,8 +38,6 @@ ul.task-list li input[type="checkbox"] {
 <link href="../content/01_project-repos.html" rel="next">
 <link href="../index.html" rel="prev">
 <link href="../images/favicon.ico" rel="icon">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -51,9 +49,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-dc9893c86acf9ff9e261a9e62b2b8689.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-93b7d6f2fc0a8e86c8c77d6a6994f458.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../site_libs/bootstrap/bootstrap-dc9893c86acf9ff9e261a9e62b2b8689.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-639c56369ababcd5651d1515ebc0ebf5.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-96c1465cffba7e4d15ba8eef75e83fbe.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-639c56369ababcd5651d1515ebc0ebf5.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -81,65 +79,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-team-members .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-title','listing-subtitle','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-description","listing-image"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-team-members'] = new List('listing-team-members', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -453,50 +393,44 @@ window.Quarto = {
 </header>
 
 
-<div class="#team-members">
-
+<div class="grid">
+<!-- Reid Brennan -->
+<div class="g-col-12 g-col-md-6 g-col-lg-4">
+<div class="card h-100 shadow-sm">
+<p><img src="../images/people/reid_brennan.jpg" class="card-img-top img-fluid" style="height: 220px; object-fit: cover;"></p>
+<section id="reid-brennan" class="level4 card-title mb-1 card-body d-flex flex-column">
+<h4 class="card-title mb-1 anchored" data-anchor-id="reid-brennan">Reid Brennan</h4>
+<p><em>Research Biologist</em> {.card-subtitle .text-muted .mb-3}</p>
+<div class="card-text">
+<p>Population genomics, epigenomics, transcriptomics, adaptation; Works on marine mammals and fishes.</p>
+</div>
+<div class="d-flex flex-wrap gap-1 mt-auto pt-3">
+<p><a href="https://github.com/rsbrennan-NOAA" target="_blank" class="btn btn-outline-dark btn-sm"><i class="bi bi-github"></i> GitHub</a> <a href="https://scholar.google.com/citations?user=4Ykg3a0AAAAJ&amp;hl=en" target="_blank" class="btn btn-outline-primary btn-sm"><i class="bi bi-mortarboard-fill"></i> Scholar</a> <a href="https://orcid.org/0000-0001-7678-564X" target="_blank" class="btn btn-outline-success btn-sm"><i class="bi bi-person-badge"></i> ORCID</a> <a href="mailto:reid.brennan@noaa.gov" class="btn btn-outline-secondary btn-sm"><i class="bi bi-envelope-fill"></i> Email</a></p>
+</div>
+</section>
+</div>
+</div>
+<!-- Person 1 -->
+<div class="g-col-12 g-col-md-6 g-col-lg-4">
+<div class="card h-100 shadow-sm">
+<p><img src="../images/people/jane_doe.jpg" class="card-img-top img-fluid" style="height: 220px; object-fit: cover;"></p>
+<section id="person-1" class="level4 card-title mb-1 card-body d-flex flex-column">
+<h4 class="card-title mb-1 anchored" data-anchor-id="person-1">Person 1</h4>
+<p><em>Bioinformatics Specialist</em> {.card-subtitle .text-muted .mb-3}</p>
+<div class="card-text">
+<p>Focuses on environmental DNA (eDNA) monitoring and high-throughput sequencing pipelines.</p>
+</div>
+<div class="d-flex flex-wrap gap-1 mt-auto pt-3">
+<p><a href="https://github.com/janedoe" target="_blank" class="btn btn-outline-dark btn-sm"><i class="bi bi-github"></i> GitHub</a> <a href="https://scholar.google.com/citations?user=SCHOLAR_ID" target="_blank" class="btn btn-outline-primary btn-sm"><i class="bi bi-mortarboard-fill"></i> Scholar</a> <a href="mailto:jane.doe@noaa.gov" class="btn btn-outline-secondary btn-sm"><i class="bi bi-envelope-fill"></i> Email</a></p>
+</div>
+</section>
+</div>
+</div>
 </div>
 
 
 
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-team-members">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0">
-<a href="https://github.com/janedoe" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../images/people/jane_doe.jpg" class="thumbnail-image card-img" style="height: 220px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Person 1
-</h5>
-<div class="card-text listing-description delink">
-<p>yadda yadda</p>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1">
-<a href="https://github.com/rsbrennan-NOAA" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../images/people/reid_brennan.jpg" class="thumbnail-image card-img" style="height: 220px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Reid Brennan
-</h5>
-<div class="card-text listing-description delink">
-<p>Population genomics, epigenomics, transcriptomics, adaptation; Works on marine mammals and fishes</p>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
