@@ -3,8 +3,8 @@ project:
 
 website: 
   page-navigation: true
-  title: "CB Genetics Landing Page" 
-  site-url: "https://sefsc.github.io/Omics_Website/00_homepage.html" 
+  title: "SEFSC Landing Page" 
+  site-url: "https://sefsc.github.io/Omics_Website/" 
   repo-url: "https://github.com/SEFSC/Omics_Website"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
