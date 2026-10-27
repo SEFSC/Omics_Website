@@ -1,1 +1,1 @@
-Sitemap: https://sefsc.github.io/Omics_Website/00_homepage.html/sitemap.xml
+Sitemap: https://sefsc.github.io/Omics_Website/sitemap.xml

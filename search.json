@@ -104,6 +104,16 @@
     ]
   },
   {
+    "objectID": "content/06_people.html",
+    "href": "content/06_people.html",
+    "title": "People",
+    "section": "",
+    "text": "Add information about current people working on omics.",
+    "crumbs": [
+      "People"
+    ]
+  },
+  {
     "objectID": "content/01_project-repos.html",
     "href": "content/01_project-repos.html",
     "title": "CB Genetics Github Repositories",
