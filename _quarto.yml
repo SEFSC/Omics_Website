@@ -33,10 +33,10 @@ website:
     contents:
       - text: Home
         href: 00_homepage.qmd
+      - text: People
+        href: content/06_people.qmd
       - text: Project Repositories
         href: content/01_project-repos.qmd
-      - text: Peope
-        href: content/06_people.qmd
       - section: "Github Resources"
         href: content/02_github-resources.qmd
         contents:
