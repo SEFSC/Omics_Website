@@ -14,7 +14,7 @@ listing:
 
     - title: "Reid Brennan"
       description: "yadda yadda number 2"
-      image: ../images/people/reid_brennan.jpg
+      image: https://github.com/SEFSC/Omics_Website/blob/main/images/people/reid_brennan.jpg
       path: "https://github.com/rsbrennan-NOAA"
 ---
 
