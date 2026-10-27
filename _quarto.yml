@@ -32,7 +32,7 @@ website:
     collapse-level: 1
     contents:
       - text: Home
-        href: 00_homepage.qmd
+        href: index.qmd
       - text: People
         href: content/06_people.qmd
       - text: Project Repositories
