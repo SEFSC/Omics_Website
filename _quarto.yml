@@ -4,8 +4,8 @@ project:
 website: 
   page-navigation: true
   title: "CB Genetics Landing Page" 
-  site-url: "https://noaa-nwfsc.github.io/CB_Genetics_Landing_Page/" 
-  repo-url: "https://noaa-nwfsc.github.io/CB_Genetics_Landing_Page/"
+  site-url: "https://sefsc.github.io/Omics_Website/00_homepage.html" 
+  repo-url: "https://github.com/SEFSC/Omics_Website"
   repo-actions: [edit, source, issue]
   favicon: images/favicon.ico
   
@@ -24,7 +24,7 @@ website:
         href: https://nmfs-opensci.github.io
         text: "NMFS Open Science"
       - icon: github
-        href: https://github.com/noaa-nwfsc/CB_Genetics_Landing_Page
+        href: https://github.com/SEFSC/Omics_Website
         text: "Github Repo"
 
     style: "docked"
@@ -35,6 +35,8 @@ website:
         href: 00_homepage.qmd
       - text: Project Repositories
         href: content/01_project-repos.qmd
+      - text: Peope
+        href: content/06_people.qmd
       - section: "Github Resources"
         href: content/02_github-resources.qmd
         contents:
