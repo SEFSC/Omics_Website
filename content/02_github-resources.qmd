@@ -4,10 +4,16 @@ title: Github Resources
 
 ## Setting up NOAA Github
 
-All instructions can be found at: https://github.com/SEFSC/SEFSC-Resources
+NOAA uses Github enterprise. You should apply for an account following the instructions here: [github.com/SEFSC/SEFSC-Resources](https://github.com/SEFSC/SEFSC-Resources)
 
-Note that the Github name you use for your NOAA work should end in `-NOAA`. For example `JohnSmith-NOAA`
+As part of this, you need to make a new github name. The Github name you use for your NOAA work should end in `-NOAA`. For example `JohnSmith-NOAA`. Do not use your personal github id. 
 
+
+
+
+  
+
+---
 
 ## Notes below here are from NWFSC, but many/most of the principles are relevant to SEFSC
 
