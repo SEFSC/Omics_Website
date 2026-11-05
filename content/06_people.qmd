@@ -5,23 +5,68 @@ title: "People"
 ::: {.grid}
 
 
-<!-- Person 1 -->
+<!-- Lynsey Wilcox Talbot -->
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: {.card .h-100 .shadow-sm}
-![](../images/people/jane_doe.jpg){.card-img-top style="height: 220px; object-fit: cover;"}
+![](../images/people/whale.png){.card-img-top style="height: 220px; object-fit: cover;"}
 
 ::: {.card-body .d-flex .flex-column}
-#### Person 1 {.card-title .mb-1}
-*Bioinformatics Specialist* {.card-subtitle .text-muted .mb-3}
+#### Lynsey Wilcox Talbot {.card-title .mb-1}
+*Geneticist*
 
 ::: {.card-text}
-Focuses on environmental DNA (eDNA) monitoring and high-throughput sequencing pipelines.
+Expertise added here
 :::
 
 ::: {.d-flex .flex-wrap .gap-1 .mt-auto .pt-3}
-<a href="https://github.com/janedoe" target="_blank" class="btn btn-outline-dark btn-sm"><i class="bi bi-github"></i> GitHub</a>
-<a href="https://scholar.google.com/citations?user=SCHOLAR_ID" target="_blank" class="btn btn-outline-primary btn-sm"><i class="bi bi-mortarboard-fill"></i> Scholar</a>
-<a href="mailto:jane.doe@noaa.gov" class="btn btn-outline-secondary btn-sm"><i class="bi bi-envelope-fill"></i> Email</a>
+<a href="https://github.com/LWilcox-NOAA" target="_blank" class="btn btn-outline-dark btn-sm"><i class="bi bi-github"></i> GitHub</a>
+<a href="https://orcid.org/0000-0001-9824-879X" target="_blank" class="btn btn-outline-success btn-sm"><i class="bi bi-person-badge"></i> ORCID</a>
+<a href="mailto:lynsey.wilcox@noaa.gov" class="btn btn-outline-secondary btn-sm"><i class="bi bi-envelope-fill"></i> Email</a>
+:::
+:::
+:::
+:::
+
+<!-- Nikki Vollmer -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.card .h-100 .shadow-sm}
+![](../images/people/whale.png){.card-img-top style="height: 220px; object-fit: cover;"}
+
+::: {.card-body .d-flex .flex-column}
+#### Nikki Vollmer {.card-title .mb-1}
+*Population Geneticist*
+
+::: {.card-text}
+Expertise added here
+:::
+
+::: {.d-flex .flex-wrap .gap-1 .mt-auto .pt-3}
+<a href="https://github.com/NikkiVollmer-NOAA" target="_blank" class="btn btn-outline-dark btn-sm"><i class="bi bi-github"></i> GitHub</a>
+<a href="https://scholar.google.com/citations?user=kugVPOEAAAAJ&hl=en" target="_blank" class="btn btn-outline-primary btn-sm"><i class="bi bi-mortarboard-fill"></i> Scholar</a>
+<a href="mailto:nicole.vollmer@noaa.gov" class="btn btn-outline-secondary btn-sm"><i class="bi bi-envelope-fill"></i> Email</a>
+:::
+:::
+:::
+:::
+
+
+<!-- Christina McCosker -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.card .h-100 .shadow-sm}
+![](../images/people/whale.png){.card-img-top style="height: 220px; object-fit: cover;"}
+
+::: {.card-body .d-flex .flex-column}
+#### Christina McCosker {.card-title .mb-1}
+*Geneticist*
+
+::: {.card-text}
+Expertise added here
+:::
+
+::: {.d-flex .flex-wrap .gap-1 .mt-auto .pt-3}
+<a href="https://github.com/cmccosker-NOAA" target="_blank" class="btn btn-outline-dark btn-sm"><i class="bi bi-github"></i> GitHub</a>
+<a href="https://scholar.google.com/citations?user=dde9ncwAAAAJ&hl=en" target="_blank" class="btn btn-outline-primary btn-sm"><i class="bi bi-mortarboard-fill"></i> Scholar</a>
+<a href="mailto:christina.mccosker@noaa.gov" class="btn btn-outline-secondary btn-sm"><i class="bi bi-envelope-fill"></i> Email</a>
 :::
 :::
 :::
@@ -46,6 +91,29 @@ Population genomics, epigenomics, transcriptomics, adaptation, evolution; Works 
 <a href="https://scholar.google.com/citations?user=4Ykg3a0AAAAJ&hl=en" target="_blank" class="btn btn-outline-primary btn-sm"><i class="bi bi-mortarboard-fill"></i> Scholar</a>
 <a href="https://orcid.org/0000-0001-7678-564X" target="_blank" class="btn btn-outline-success btn-sm"><i class="bi bi-person-badge"></i> ORCID</a>
 <a href="mailto:reid.brennan@noaa.gov" class="btn btn-outline-secondary btn-sm"><i class="bi bi-envelope-fill"></i> Email</a>
+:::
+:::
+:::
+:::
+
+<!-- Jamie Adkins -->
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.card .h-100 .shadow-sm}
+![](../images/people/whale.png){.card-img-top style="height: 220px; object-fit: cover;"}
+
+::: {.card-body .d-flex .flex-column}
+#### Reid Brennan {.card-title .mb-1}
+*Research Biologist*
+
+::: {.card-text}
+Population genomics, epigenomics, transcriptomics, adaptation, evolution; Works on marine mammals and fishes.
+:::
+
+::: {.d-flex .flex-wrap .gap-1 .mt-auto .pt-3}
+<a href="https://github.com/jadkins-NOAA" target="_blank" class="btn btn-outline-dark btn-sm"><i class="bi bi-github"></i> GitHub</a>
+<a href="https://scholar.google.com/" target="_blank" class="btn btn-outline-primary btn-sm"><i class="bi bi-mortarboard-fill"></i> Scholar</a>
+<a href="https://orcid.org" target="_blank" class="btn btn-outline-success btn-sm"><i class="bi bi-person-badge"></i> ORCID</a>
+<a href="mailto:jamie.adkins@noaa.gov" class="btn btn-outline-secondary btn-sm"><i class="bi bi-envelope-fill"></i> Email</a>
 :::
 :::
 :::
