@@ -102,8 +102,8 @@ Population genomics, epigenomics, transcriptomics, adaptation, evolution; Works 
 ![](../images/people/whale.png){.card-img-top style="height: 220px; object-fit: cover;"}
 
 ::: {.card-body .d-flex .flex-column}
-#### Reid Brennan {.card-title .mb-1}
-*Research Biologist*
+#### Jamie Adkins {.card-title .mb-1}
+*Geneticist, Postdoc*
 
 ::: {.card-text}
 Population genomics, epigenomics, transcriptomics, adaptation, evolution; Works on marine mammals and fishes.
