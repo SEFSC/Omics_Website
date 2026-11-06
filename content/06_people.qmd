@@ -30,14 +30,14 @@ Expertise added here
 <!-- Nikki Vollmer -->
 ::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: {.card .h-100 .shadow-sm}
-![](../images/people/whale.png){.card-img-top style="height: 260px; object-fit: cover;"}
+![](../images/people/Vollmer_skin_on_tag(1).jpg){.card-img-top style="height: 260px; object-fit: cover;"}
 
 ::: {.card-body .d-flex .flex-column}
 #### Nikki Vollmer {.card-title .mb-1}
 *Population Geneticist*
 
 ::: {.card-text}
-Expertise added here
+Population genomics, conservation and management, eDNA; Works on marine mammals, specifically dolphins and whales.
 :::
 
 ::: {.d-flex .flex-wrap .gap-1 .mt-auto .pt-3}
