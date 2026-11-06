@@ -37,7 +37,7 @@ Expertise added here
 *Population Geneticist*
 
 ::: {.card-text}
-Population genomics, conservation and management, eDNA; Works on marine mammals, specifically dolphins and whales.
+Population genomics, conservation genetics, eDNA; Works on marine mammals, specifically dolphins and whales.
 :::
 
 ::: {.d-flex .flex-wrap .gap-1 .mt-auto .pt-3}
